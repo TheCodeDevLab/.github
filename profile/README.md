@@ -17,6 +17,6 @@ Thanks to the hash function, no one who intercepts a password (in a mass leak fo
 
 The app is available on iOS, Mac, Android, Python app and web.
 
-- Android: [Play Store](https://play.google.com/store/apps/details?id=fr.juliette.thecode&gl=FR)
-- Web: [thecode.h.minet.net](http://thecode.h.minet.net)
+- Android: [Play Store](https://play.google.com/store/apps/details?id=fr.juliette.thecode)
+- Web: [thecode.julsql.fr](http://thecode.julsql.fr)
 - Apple: Undeployed yet.
