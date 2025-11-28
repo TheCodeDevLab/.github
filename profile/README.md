@@ -98,4 +98,4 @@ You can help by:
 Feel free to open an Issue or create a **Pull Request**.
 
 ## 📄 License
-TheCode is distributed under the **MIT License**.
+TheCode is distributed under the **Apache License**.
