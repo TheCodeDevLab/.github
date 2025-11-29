@@ -2,7 +2,7 @@
 
 > 🔐 **One secret key. Unique, long, and secure passwords for every website.**
 > 
-> 🌐 Official website: **[thecode.julsql.fr](thecode.julsql.fr)**
+> 🌐 Official website: **[thecode.julsql.fr](https://thecode.julsql.fr)**
 
 ## 🎯 Overview
 **TheCode** is a deterministic — yet highly secure — password generator.
